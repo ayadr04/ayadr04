@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--  
 👋 Qui suis-je ?
 
 Je suis étudiante en Machine Learning et Intelligence Artificielle, passionnée par l’analyse de données, le développement de modèles intelligents et la résolution de problèmes réels à l’aide de l’IA.
